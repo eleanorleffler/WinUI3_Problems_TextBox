@@ -6,4 +6,4 @@ The UWP sample code works as expected - the TextBox within the ContentDialog all
 
 The WinUI3 Desktop sample builds but the TextBox within the ContentDialog does not contain the text typed. 
 
-For more details about the WinUI3 Desktop issue, go to the issue here. ** Insert link here **
+For more details about the WinUI3 Desktop issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/2704).
